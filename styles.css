@@ -1,0 +1,512 @@
+/* Outter Phone Line */
+
+#Mobile-View {
+    width: 450px;
+    height: 700px;
+    background-color: white;
+    border: 5px black solid;
+    border-radius: 35px;
+    position: absolute;
+}
+
+/* Header Section */
+
+#Logo  {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    margin: 0;
+    top: 20px;
+    left: 20px;
+}
+
+h1 {
+    font-family: londrina, sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 0;
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+#Mobile-View > p {
+    font-family: londrina, sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+    margin: 0;
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+/* 1st Menu left box */
+
+.sec-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: rgb(231, 20, 20);
+    position: absolute;
+    margin: 0;
+    top: 230px;
+    left: 30px;
+}
+
+.sec-1 > p {
+    font-family: londrina, sans-serif;
+    color: white;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 25px;
+}
+
+.sec-1 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+/*1st Menu Right box */
+
+.sec-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color:#F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 230px;
+    left: 160px;
+}
+
+.sec-2 > p {
+    font-family: londrina, sans-serif;
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 6px;
+}
+
+.sec-2 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+/*2nd Menu Left box */
+
+.msec-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color:#F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 350px;
+    left: 30px;
+}
+
+.msec-1 > p {
+    font-family: londrina, sans-serif;
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 28px;
+}
+
+.msec-1 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+/*2nd Menu Right box */
+
+.msec-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color:#F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 350px;
+    left: 160px;
+}
+
+.msec-2 > p {
+    font-family: londrina, sans-serif;
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 30px;
+}
+
+.msec-2 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+/*3rd Menu Left box */
+
+.men-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color:#F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 470px;
+    left: 30px;
+}
+
+.men-1 > p {
+    font-family: londrina, sans-serif;
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 35px;
+}
+
+.men-1 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+/*3rd Menu Right box */
+
+.men-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color:#F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 470px;
+    left: 160px;
+}
+
+.men-2 > p {
+    font-family: londrina, sans-serif;
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    left: 20px;
+}
+
+.men-2 > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    left: 24px;  
+}
+
+h2 {
+    font-family: londrina, sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    position: relative;
+    margin: 0;
+    top: 599px;
+    left: 20px;
+}
+
+.left-nav {
+    width: 150px;
+    height: 699px;
+    border-radius: 35px;
+    background-color: #F5F5F7;
+    position: absolute;
+    margin: 0;
+    top: 13px;
+    left: 312px;
+}
+
+#Country-Flag  {
+    width: 25px;
+    height: 20px;
+    border-radius: 5px;
+    position: relative;
+    margin: 0;
+    top: 20px;
+    left: 100px;
+}
+
+.side-nav-a {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+
+
+.side-nav-b {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 14px;
+    font-weight: 100;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+
+.line-1 {
+    width: 130px;
+    height: 2px;
+    background-color: rgb(221, 221, 221);
+    position: absolute;
+    margin: 0;
+    top: 220px;
+    left: 322px;
+}
+
+/* Item added to the cart */
+
+.order-1 > img {
+    width: 65px;
+    height: 65px;
+    border-radius: 30px;
+    position: absolute;
+    top: 240px;
+    left: 355px;
+}
+
+.order-1 > .FF {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 100;
+    position: absolute;
+    left: 360px;
+    top: 305px;
+}
+
+.order-1 > .RR {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 100;
+    position: absolute;
+    left: 368px;
+    top: 327px;
+}
+
+/* Food Qty add/mins + number of items ordered */
+
+.Outbr-a {
+    width: 25px;
+    height: 15px;
+    background-color: #F5F5F7;
+    border: 1.5px solid rgb(139, 138, 138);
+    border-radius: 5px;
+    position: absolute;
+    top: 360px;
+    left: 330px;
+}
+
+.min-1 {
+    width: 5px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+
+.order-1 > p {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 700;
+    position: absolute;
+    top: 351px;
+    left: 385px;
+}
+
+.Outbr-b {
+    width: 25px;
+    height: 15px;
+    background-color: #F5F5F7;
+    border: 1.5px solid rgb(139, 138, 138);
+    border-radius: 5px;
+    position: absolute;
+    top: 360px;
+    left: 420px;
+}
+
+.plu-1 {
+    width: 5px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+
+.plu-2 {
+    width: 1px;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 6px;
+    left: 12px;
+}
+
+.line-2 {
+    width: 130px;
+    height: 1.5px;
+    background-color: rgb(221, 221, 221);
+    position: absolute;
+    margin: 0;
+    top: 410px;
+    left: 322px;
+}
+
+/* Second Order */
+
+
+.order-2 > img {
+    width: 65px;
+    height: 65px;
+    border-radius: 30px;
+    position: absolute;
+    top: 440px;
+    left: 355px;
+}
+
+.order-2 > .FFF {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 100;
+    position: absolute;
+    left: 368px;
+    top: 510px;
+}
+
+.order-2 > .RRR {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 100;
+    position: absolute;
+    left: 368px;
+    top: 530px;
+}
+
+/* Food Qty add/mins + number of items ordered */
+
+.Outbr-aa {
+    width: 25px;
+    height: 15px;
+    background-color: #F5F5F7;
+    border: 1.5px solid rgb(139, 138, 138);
+    border-radius: 5px;
+    position: absolute;
+    top: 564px;
+    left: 330px;
+}
+
+.min-11 {
+    width: 5px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+
+.order-2 > p {
+    font-family: londrian,sans-serif;
+    color: black;
+    font-size: 11px;
+    font-weight: 700;
+    position: absolute;
+    top: 555px;
+    left: 385px;
+}
+
+.Outbr-bb {
+    width: 25px;
+    height: 15px;
+    background-color: #F5F5F7;
+    border: 1.5px solid rgb(139, 138, 138);
+    border-radius: 5px;
+    position: absolute;
+    top: 564px;
+    left: 420px;
+}
+
+.plu-11 {
+    width: 5px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+
+.plu-22 {
+    width: 1px;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 5px;
+    left: 12px;
+}
+
+.line-3 {
+    width: 130px;
+    height: 1.5px;
+    background-color: rgb(221, 221, 221);
+    position: absolute;
+    margin: 0;
+    top: 620px;
+    left: 322px;
+}
